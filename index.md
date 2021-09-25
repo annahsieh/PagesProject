@@ -4,7 +4,7 @@
 - [x] [Hobbies and Interests](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#hobbies-and-interests)
 - [x] [Miscellaneous](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#miscellaneous)
 ### Education
-I'm a 3rd year **Computer Science** major at ***UC San Diego***. 
+I'm a 3rd year **Computer Science** major at [***UC San Diego***](https://ucsd.edu/). 
 The languages I know are 
 - *Java*
 - *C*
