@@ -1,8 +1,8 @@
 # Anna Hsieh
 ![me](https://github.com/annahsieh/PagesProject/blob/461e2db03b17031ea166175913fd4171507b05d8/IMG_0735.jpg)
-[x] [Education](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#education)
-[x] [Hobbies and Interests](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#hobbies-and-interests)
-[x] [Miscellaneous](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#miscellaneous)
+ [x] [Education](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#education)
+ [x] [Hobbies and Interests](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#hobbies-and-interests)
+ [x] [Miscellaneous](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#miscellaneous)
 ### Education
 I'm a 3rd year **Computer Science** major at [***UC San Diego***](https://ucsd.edu/). 
 The languages I know are 
