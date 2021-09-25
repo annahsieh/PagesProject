@@ -1,6 +1,6 @@
 # Anna Hsieh
 !(IMG_0735.jpg)
-- [x] Education (https://github.com/annahsieh/PagesProject/blob/markdown/index.md#education)
+- [x] [Education](https://github.com/annahsieh/PagesProject/blob/markdown/index.md#education)
 - [x] Hobbies and Interests
 - [x] Miscellaneous
 ### Education
