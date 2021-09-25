@@ -1,8 +1,8 @@
 # Anna Hsieh
 ![me](./IMG_0735.jpg)
-- [x] [Education](#education)
-- [x] [Hobbies and Interests](#hobbies-and-interests)
-- [x] [Miscellaneous](#miscellaneous)
+- [x] [Education](https://annahsieh.github.io/PagesProject/#education)
+- [x] [Hobbies and Interests](https://annahsieh.github.io/PagesProject/#hobbies-and-interests)
+- [x] [Miscellaneous](https://annahsieh.github.io/PagesProject/#miscellaneous)
 
 ### Education
 I'm a 3rd year **Computer Science** major at [***UC San Diego***](https://ucsd.edu/). 
