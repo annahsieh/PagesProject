@@ -1,5 +1,5 @@
 # Anna Hsieh
-![me](https://github.com/annahsieh/PagesProject/blob/443b031f4025b61a8bccf6f99a13474209efbf87/IMG_0735.jpg)
+![me](./IMG_0735.jpg)
 - [x] [Education](https://annahsieh.github.io/PagesProject/#education)
 - [x] [Hobbies and Interests](https://annahsieh.github.io/PagesProject/#hobbies-and-interests)
 - [x] [Miscellaneous](https://annahsieh.github.io/PagesProject/#miscellaneous)
